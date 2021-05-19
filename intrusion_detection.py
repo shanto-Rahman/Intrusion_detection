@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
-"""Intrusion_detection.ipynb
-
+"""
 Developed By Shanto Rahman
-
-Original file is located at
-    https://colab.research.google.com/drive/1WyHdxD57RGtygY7DJBfz1s70owvCMyjc
 """
 
 import os
